@@ -10,7 +10,7 @@ export default function Link() {
       
             <a href = "http://books.zuri.team" id='books'>Zuri Books</a>
     
-            <a href = ""></a>
+            <a href = "https://books.zuri.team" id='book__python'>Python Books</a>
         
             <a href = ""></a>
     
