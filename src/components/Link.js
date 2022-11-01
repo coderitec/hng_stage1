@@ -8,7 +8,7 @@ export default function Link() {
         
             <a href = "https://training.zuri.team/" id='btn-zuri'>Zuri Team</a>
       
-            <a href = ""></a>
+            <a href = "http://books.zuri.team" id='books'>Zuri Books</a>
     
             <a href = ""></a>
         
