@@ -1,12 +1,13 @@
 
-import pic from './images/franc.png'
-import Image from './components/Image';
+import Profile from './components/Profile';
 import './App.css';
+import Link from './components/Link';
 
 function App() {
   return (
     <div className="App">
-     <Image />
+     <Profile />
+     <Link />
     </div>
   );
 }
