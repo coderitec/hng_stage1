@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hng_stage1/static/css/main.612cd4e4.css",
+    "main.js": "/hng_stage1/static/js/main.99602778.js",
+    "static/media/francis.png": "/hng_stage1/static/media/francis.3cffe5669989ec61b07b.png",
+    "index.html": "/hng_stage1/index.html",
+    "main.612cd4e4.css.map": "/hng_stage1/static/css/main.612cd4e4.css.map",
+    "main.99602778.js.map": "/hng_stage1/static/js/main.99602778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612cd4e4.css",
+    "static/js/main.99602778.js"
+  ]
+}
