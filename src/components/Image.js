@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../images/franc.png'
+import pic from '../images/francis.png'
 import '../App.css'
 
 export default function Image() {
